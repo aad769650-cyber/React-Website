@@ -34,7 +34,7 @@ console.log(data.data[0]);
     <h1>{name.common}</h1>
 
 
-<div className="native"><span>Top Level Domain:</span>{Object.values(name.nativeName)[0].official}</div>
+<div className="native"><span>Native name:</span>{Object.values(name.nativeName)[0].official}</div>
 
 
 
